@@ -1,0 +1,6 @@
+﻿  Remote.cpp
+  Source.cpp
+  TV.cpp
+C:\Users\tlvla\source\repos\TV\TV\TV.cpp(14,35): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  TV.vcxproj -> C:\Users\tlvla\source\repos\TV\Debug\TV.exe
